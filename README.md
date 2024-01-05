@@ -1,6 +1,7 @@
 # Watermarking-LLMs-Identifying-and-Preventing-Attacks
 The project seeks to create defense systems against insertion attacks and contribute to the responsible and secure use of LLMs
-Abstract
+# Abstract
+
 This project aims to enhance the existing watermarking framework presented by
 Kirchenbauer et al. (2023), with a specific focus on mitigating text insertion attacks
 against Large Language Models (LLMs). We present a two-part solution. In the
@@ -12,7 +13,8 @@ despite attackers removing the inserted tokens, our detector can still accuratel
 identify watermarks. We test the efficiency of our solutions through comprehensive
 testing against text insertion attacks. We have an accuracy of 99.5% with solution I
 and 36% with solution II.
-Introduction
+# Introduction
+
 The advent and development of Large Language Models (LLMs), such as GPT-3, GPT-4, PaLM2,
 and LLaMA, have undeniably revolutionized the natural language processing field, demonstrating
 unprecedented performance in a wide range of applications, including but not limited to language
