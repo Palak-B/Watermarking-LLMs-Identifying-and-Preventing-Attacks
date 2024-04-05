@@ -47,3 +47,6 @@ to insert emoji tokens after every word that can then be removed, which randomiz
 Figure 1: Example of Kirchenbauer et al. Watermarker Failing with Insertion Attack.
 associated with subsequent non-emoji tokens. We aim to make the watermarker robust
 to prompt-based attacks.
+
+
+<img width="952" alt="image" src="https://github.com/Palak-B/Watermarking-LLMs-Identifying-and-Preventing-Attacks/assets/24750162/cdef24fe-550a-46ef-9e3f-f79137049ebf">
