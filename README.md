@@ -50,3 +50,6 @@ to prompt-based attacks.
 
 
 <img width="952" alt="image" src="https://github.com/Palak-B/Watermarking-LLMs-Identifying-and-Preventing-Attacks/assets/24750162/cdef24fe-550a-46ef-9e3f-f79137049ebf">
+
+
+<img width="538" alt="image" src="https://github.com/Palak-B/Watermarking-LLMs-Identifying-and-Preventing-Attacks/assets/24750162/c4375983-8070-4b0a-992c-d92e94abfec7">
